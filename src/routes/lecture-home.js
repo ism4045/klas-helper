@@ -21,7 +21,7 @@ export default () => {
   $("p:contains('온라인 강의리스트')").append(`
     <button type="button" class="btn2 btn-learn btn-cooltime">2분 쿨타임 제거</button>
     <button type="button" class="btn2 btn-gray btn-clean">강의 숨기기 On / Off</button>
-	<button type="button" class="btn2 btn-gray btn-clean">모든 영상 다운로드</button>
+	<button type="button" class="btn2 btn-gray btn-down">모든 영상 다운로드</button>
   `);
 
   // 2분 쿨타임 제거 버튼에 이벤트 설정

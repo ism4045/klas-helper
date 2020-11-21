@@ -43,6 +43,7 @@ export default () => {
       <div style="margin-top: 20px">
         <button type="button" id="btn-cooltime" class="btn2 btn-learn">2분 쿨타임 제거</button>
         <button type="button" id="btn-hide-lecture" class="btn2 btn-gray">강의 숨기기 On / Off</button>
+		<button type="button" class="btn2 btn-gray btn-clean">모든 영상 다운로드</button>
       </div>
     </div>
 `);
